@@ -1,0 +1,12 @@
+{
+  "name": "yt-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/youtube.js",
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "ytdl-core": "^4.11.5"
+  }
+}
